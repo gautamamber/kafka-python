@@ -1,0 +1,10 @@
+{
+  "type": "record",
+  "name": "UserUpdate",
+  "fields": [
+    {"name": "user_id", "type": "string"},
+    {"name": "name", "type": "string"},
+    {"name": "email", "type": "string"},
+    {"name": "age", "type": "int"}
+  ]
+}
